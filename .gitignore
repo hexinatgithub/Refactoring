@@ -1,2 +1,4 @@
 .idea/
 /Refactoring.iml
+*.class
+out/
